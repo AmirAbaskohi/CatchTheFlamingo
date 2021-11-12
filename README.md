@@ -40,6 +40,7 @@ KNIME, the Konstanz Information Miner, is a free and open-source data analytics,
 I used `NeoJ4` for graph analytic.
 
 ### NeoJ4
-![image](https://user-images.githubusercontent.com/50926437/141459922-89f9254a-10eb-48e9-85b1-e4a61d1e9a8c.png)
+![image](https://user-images.githubusercontent.com/50926437/141460128-5ffc6f05-f7a1-4fa4-9e11-83ea807e57f5.png)
+
 
 Neo4j is a graph database management system developed by Neo4j, Inc. Described by its developers as an ACID-compliant transactional database with native graph storage and processing,[3] Neo4j is available in a GPL3-licensed open-source "community edition", with online backup and high availability extensions licensed under a closed-source commercial license.[4] Neo also licenses Neo4j with these extensions under closed-source commercial terms.
