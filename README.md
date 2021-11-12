@@ -34,3 +34,13 @@ data in a searchable repository from which it can generate graphs, reports, aler
 KNIME, the Konstanz Information Miner, is a free and open-source data analytics, reporting and integration platform. KNIME integrates various components for machine learning and data mining through its modular data pipelining "Building Blocks of Analytics" concept. We use it to build the model.
 
 ![image](https://user-images.githubusercontent.com/50926437/141443016-f9eed7c3-e6b0-4ca8-b618-d4736f2c23d6.png)
+
+## Graph Data analytic
+
+I used `NeoJ4` for graph analytic.
+
+### NeoJ4
+![image](https://user-images.githubusercontent.com/50926437/141460128-5ffc6f05-f7a1-4fa4-9e11-83ea807e57f5.png)
+
+
+Neo4j is a graph database management system developed by Neo4j, Inc. Described by its developers as an ACID-compliant transactional database with native graph storage and processing,[3] Neo4j is available in a GPL3-licensed open-source "community edition", with online backup and high availability extensions licensed under a closed-source commercial license.[4] Neo also licenses Neo4j with these extensions under closed-source commercial terms.
